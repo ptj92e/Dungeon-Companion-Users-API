@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Vk/kXibLaeH/9dS098gpNnMubO8lbua44FL9vehuoU+0RETRqwFr+nFncdwBKZX/hLDZytzN6coxoLIX2sbAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Dungeon-Companion-APIs\\Dungeon-Companion-Users-API\\users-api\\users-api\\users-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
