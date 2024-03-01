@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "users-api", "users-api\users-api.csproj", "{B7700EDA-0218-495F-AC8A-6194EFF0B560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "users-api", "users-api\users-api.csproj", "{B7700EDA-0218-495F-AC8A-6194EFF0B560}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE0CB1B6-55EB-4764-B6B3-B0AF4DA1FA20}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
